@@ -1,6 +1,10 @@
 # Personalized_Medicine-Redefining_Cancer_Treatment
 Determining the class of cancer-causing mutations using text and genetic data
 
+##Source
+
+https://www.kaggle.com/c/msk-redefining-cancer-treatment
+
 ## Inspiration
 * A cancer tumor can have thousands of genetic mutations. But the challenge is distinguishing the mutations that contribute to tumor growth (drivers) from the neutral mutations (passengers).
 * Currently interpretation of genetic mutations is done manually. This is a very time-consuming task where a clinical pathologist has to manually review and classify every single genetic mutation based on evidence from text-based clinical literature.
