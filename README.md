@@ -15,6 +15,7 @@ Genes are in the DNA of each cell in your body. They control how the cell functi
 * How quickly it grows
 * How often it divides
 * How long it lives
+
 Genes control how your cells work by making proteins. The proteins have specific functions and act as messengers for the cell.Each gene must have the correct instructions for making its protein. This allows the protein to perform the correct function for the cell.All cancers begin when one or more genes in a cell mutate. A mutation is a change. It creates an abnormal protein. Or it may prevent a protein’s formation. An abnormal protein provides different information than a normal protein. This can cause cells to multiply uncontrollably and become cancerous. Mutations happen often. A mutation may be beneficial, harmful, or neutral. This depends where in the gene the change occurs. Typically, the body corrects most mutations. A single mutation will likely not cause cancer. Usually, cancer occurs from multiple mutations over a lifetime. That is why cancer occurs more often in older people. They have had more opportunities for mutations to build up.
 
 ## Abstract
